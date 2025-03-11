@@ -12,6 +12,7 @@ e = 4
 f = 2
 print(e/f)
 
+
 g = 2
 h = 2
 print(g*h)
